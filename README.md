@@ -14,4 +14,7 @@ This project provides a simple implementation of various caching strategies in G
 ### Installation
 
 ```bash
-go get -u [github.com/henryosei/gocache]
+go get -u go get -u github.com/henryosei/gocache
+```
+
+
